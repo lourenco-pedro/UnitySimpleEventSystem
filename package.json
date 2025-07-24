@@ -1,0 +1,14 @@
+{
+  "name": "com.ppl.simpleeventsystem",
+  "version": "1.0.0",
+  "displayName": "Simple Event System",
+"description": "A simple event system for Unity that enables decoupling by allowing components to communicate through events without direct references.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Pedro Pereira Lourenço",
+    "email": "dev.pedropereralourenco@gmail.com",
+    "url": "https://github.com/lourenco-pedro"
+  },
+"keywords": ["event", "system", "unity", "decoupling", "communication", "messaging", "observer", "package"],
+  "license": "MIT"
+}
